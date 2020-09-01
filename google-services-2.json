@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631893598673",
+    "firebase_url": "https://test-market-d5123.firebaseio.com",
+    "project_id": "test-market-d5123",
+    "storage_bucket": "test-market-d5123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631893598673:android:516919d568c96b46bb40f0",
+        "android_client_info": {
+          "package_name": "com.gmail.limbangblogger.suki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631893598673-mgf0oocbrckk7s1dfgv0a9vn4f6pl0ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Vz9JLRASnooTVB7f7_eM2-SIi0TQuHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631893598673-mgf0oocbrckk7s1dfgv0a9vn4f6pl0ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
